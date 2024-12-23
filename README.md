@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Doğacan Özdemir</h1>
+<h1 align="center">Hi, I'm <b>Doğacan Özdemir</b> </h1>
+<p align="center"><img src="120653588.png"  height="180" width="200"/></p>
 <h3 align="center">Building solutions, one line at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dogacanozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dogacanozdemir" /> </p>
