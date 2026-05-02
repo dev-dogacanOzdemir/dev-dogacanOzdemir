@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dogacanozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dogacanozdemir" /> </p>
 
-- 🔭 I’m currently working on : [devbank-app](https://github.com/dev-dogacanOzdemir/devbank-app)
+- 🔭 I’m currently working on : [erba-platform](https://github.com/dev-dogacanOzdemir/erba-platform)
 - 📫 How to reach me : <a href="mailto:dogacan.ozdemir.dev@gmail.com">dogacan.ozdemir.dev@gmail.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
